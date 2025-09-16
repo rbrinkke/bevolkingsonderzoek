@@ -1,4 +1,4 @@
-# Architectuur voor een Digitaal Fort: Maximale Databeveiliging voor Bevolkingsonderzoek
+# Architectuur voor een Digitaal Kluis: Maximale Databeveiliging voor Bevolkingsonderzoek
 
 De visie is helder: een maximaal beveiligde, transparante en gebruikersgerichte omgeving voor bevolkingsonderzoek. In deze omgeving staan de privacy en de controle van de deelnemer te allen tijde centraal en zijn deze gegarandeerd. Om dit te realiseren is een architectuur ontworpen die niet leunt op een enkele verdedigingslinie, maar op een diepgaande, gelaagde strategie. Dit artikel duikt in de technische details van deze architectuur.
 
